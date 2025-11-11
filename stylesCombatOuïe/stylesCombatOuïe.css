@@ -1,0 +1,33 @@
+h2 {
+    position: fixed;
+    left: 639px;
+    right: 600px;
+    color: white;
+    font-family: 'Barrio';
+    text-align: center;
+}
+
+
+#Fin {
+    position: fixed;
+    left: 639px;
+    right: 600px;
+    top: 800px;
+    color: white;
+    font-family: 'Barrio';
+    text-align: center;
+    font-size: x-large;
+}
+
+.images{
+    position: fixed;
+    left: 625px;
+    top: 300px;
+    width: 700px;
+    display: block;
+}
+
+
+body {
+    background-color: #020038
+}

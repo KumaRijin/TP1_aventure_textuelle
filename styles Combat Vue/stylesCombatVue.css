@@ -1,0 +1,33 @@
+h2 {
+    position: fixed;
+    left: 639px;
+    right: 600px;
+    color: white;
+    font-family: 'Barrio';
+    text-align: center;
+}
+
+
+.images{
+    position: fixed;
+    width: 400px;
+    height: 500px;
+    left: 775px;
+    top: 210px;
+}
+
+#Début{
+    position: fixed;
+    left: 894px;
+    top: 800px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Barrio';
+}
+
+
+body {
+    background-color: #020038
+}

@@ -1,0 +1,51 @@
+h1 {
+    position: fixed;
+    left: 838px;
+    color: white;
+    font-family: 'Barrio';
+}
+
+.images{
+    position: fixed;
+    left: 640px;
+    top: 100px;
+}
+
+#start{
+    position: fixed;
+    left: 900px;
+    top: 800px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    transition: all 1s ease;
+    font-family: 'Barrio';
+}
+
+#start:hover{
+    transform: scale(1,3);
+}
+
+
+
+#quit{
+    position: fixed;
+    left: 893px;
+    top: 875px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    transition: all 1s ease;
+    font-family: 'Barrio';
+}
+
+
+#quit:hover{
+    transform: scale(1,3);
+}
+body {
+    background-color: #020038
+}
+

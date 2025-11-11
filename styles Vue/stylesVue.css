@@ -1,0 +1,41 @@
+h2 {
+    position: fixed;
+    left: 639px;
+    right: 600px;
+    color: white;
+    font-family: 'Barrio';
+    text-align: center;
+}
+
+.images{
+    position: fixed;
+    left: 625px;
+    top: 200px;
+    width: 700px;
+    display: block;
+}
+
+#Fuir{
+    position: fixed;
+    left: 860px;
+    top: 800px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Barrio';
+}
+
+#Combattre{
+    position: fixed;
+    left: 776px;
+    top: 875px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Barrio';
+}
+body {
+    background-color: #020038
+}
